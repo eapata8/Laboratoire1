@@ -1,2 +1,2 @@
 # Laboratoire1
-Essayer de travailler en équipe avec Github
+Essayer de travailler en équipe avec Git
